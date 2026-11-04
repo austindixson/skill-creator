@@ -2,7 +2,7 @@
 
 A Claude Code skill for creating, evaluating, improving, and benchmarking AI skills — with full support for both **Claude Code** and **OpenClaw** skill formats.
 
-Built by [RuneweaverStudios](https://github.com/RuneweaverStudios). Powered by Claude.
+Built by [austindixson](https://github.com/austindixson). Powered by Claude.
 
 ---
 
@@ -24,7 +24,7 @@ It works in Claude Code, Claude.ai, and Cowork environments.
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/RuneweaverStudios/skill-creator.git ~/.claude/skills/skill-creator
+git clone https://github.com/austindixson/skill-creator.git ~/.claude/skills/skill-creator
 ```
 
 ### Use
@@ -321,6 +321,6 @@ Apache 2.0 — see [LICENSE.txt](LICENSE.txt).
 
 ## Credits
 
-Built with Claude by [RuneweaverStudios](https://github.com/RuneweaverStudios).
+Built with Claude by [austindixson](https://github.com/austindixson).
 
-Skill Creator was used to evaluate, auto-fix, and benchmark [37 OpenClaw skills](https://github.com/RuneweaverStudios) in a single session — applying 132 automated fixes and producing a full portfolio health report with deep functional analysis across every skill.
+Skill Creator was used to evaluate, auto-fix, and benchmark [37 OpenClaw skills](https://github.com/austindixson) in a single session — applying 132 automated fixes and producing a full portfolio health report with deep functional analysis across every skill.
